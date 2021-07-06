@@ -19,7 +19,7 @@ We can add this login form at start of any website to verify deatils.
 
 - Go to the directory
 - Run the index.html file
-- Start validatibg!!!
+- Start validating!!!
 
 ---
 
